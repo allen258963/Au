@@ -4,14 +4,14 @@ import getpass
 from line import LineClient
 
 def GetLineAuthToken(username, password):
-    return LineClient(username, password).authToken;
+    return LineClient(aallen258963@gmail.com, k112711271127).authToken;
 
-username = raw_input("Username: ");
-password = getpass.getpass();
+username = aallen258963@gmail.com
+password = k112711271127
 
 print;
 
-authToken = GetLineAuthToken(username, password);
+authToken = GetLineAuthToken(aallen258963@gmail.com, k112711271127);
 
 print;
 
